@@ -19,7 +19,7 @@
 
 - **[8bit Website](https://github.com/8bituhm/8bit-site):** Official website of 8bit UHM
 - **[compscihi](https://github.com/8bituhm/compscihi):** Opportunity board and professional social media platform for tech opportunities in Hawaii
-- **[theta-360-demo-site](https://github.com/8bituhm/https://github.com/8bitUHM/theta360-automotive-guide):** Partnered project with Oppkey Inc. to bring an automotive guide website on the theta360 camera API
+- **[theta-360-demo-site](https://github.com/8bitUHM/theta360-automotive-guide):** Partnered project with Oppkey Inc. to bring an automotive guide website on the theta360 camera API
 
 ---
 
