@@ -1,4 +1,4 @@
-# 👋 Hello, We are 8bit @ UH Manooa
+# 👋 Hello, We are 8bit @ UH Manoa
 
 
 8bit is an organization formed at the University of Hawaii @ Manoa with the goal of building software for use by the community.
