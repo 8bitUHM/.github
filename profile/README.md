@@ -26,6 +26,6 @@
 ## 🌐 Join us
 
 - **Discord:** [Discord](https://discord.gg/T7Eu75fpAf)
-- **Members:** [View Our Members](https://8bituhm.org/members)
+- **Members:** [View Our Members](https://8bithawaii.org/members)
 
 ---
